@@ -2,7 +2,7 @@ Certainly! Here's a GitHub README for your T-REX game project. It explains the p
 
 ---
 
-# T-REX 10.5
+# T-REX version 1
 
 Welcome to T-REX 10.5, a fun and challenging game where you control a T-Rex to avoid obstacles and score points! This project is implemented in C# using Windows Forms, providing an interactive gaming experience.
 
